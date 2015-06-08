@@ -40,7 +40,7 @@ public class Controller {
         mModel = model;
     }
 
-    /**
+  /**
      * Read input and update model accordingly.
      */
     public void readInput() {
